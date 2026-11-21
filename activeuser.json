@@ -17,14 +17,14 @@
         "device_id": "544850f2e2b7165b",
         "username": "12345",
         "password": "12345",
-        "expirydate": "20-11-2026",
+        "expirydate": "20-11-2027",
         "Allowoffline": true
     },
     {
         "device_id": "c19964db5795e88e",
         "username": "123456",
         "password": "123456",
-        "expirydate": "20-11-2026",
+        "expirydate": "20-11-2027",
         "Allowoffline": true
     }
 ]
